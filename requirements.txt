@@ -1,0 +1,6 @@
+streamlit
+python-pptx
+python-docx
+PyMuPDF
+Pillow
+requests
